@@ -1,0 +1,62 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 4rem;
+    background:transparent;
+  .menu1{
+    width: 100px;
+    height: 100px;
+    img{
+        width: 100%;
+        height: 100%;
+    }
+  }
+  .menu2{
+    span{
+      font-size:18px;
+      letter-spacing: 0px;
+      color: #222222;
+      padding: 10px 16px;
+      cursor: pointer;
+    }
+<<<<<<< HEAD
+    span:hover {
+   color:#663399;
+  }
+=======
+    span:hover{
+      color:#663399;
+    }
+>>>>>>> a234331811773cc260e68fe768a6542531ec65c8
+    button{
+      border-radius: 24px !important;
+      height: 37px;
+      padding: 0 24px !important;
+    }
+    button:hover{
+      background: #663399 !important;
+      color:#ffffff !important;
+    }
+    .btn1{
+        margin-right: 5px;
+        box-shadow: 0px 0px 8px #00000033;
+        border: 2px solid #663399;
+        color: #663399 !important;
+ 
+    }
+
+    .btn2{
+        background: transparent linear-gradient(90deg, #9F62C9 0%, #663399 100%) 0% 0% no-repeat padding-box;
+        box-shadow: 0px 0px 8px #00000033;
+    }
+    .btn2:hover{
+      color:black !important;
+    }
+
+
+}
+
+
+
+}
